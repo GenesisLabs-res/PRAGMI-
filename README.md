@@ -1,12 +1,11 @@
 # PRAGMI-
 Persistent Reconstructive Architecture for Generative Memory and Imagination
 
-Genesis Labs research - Amellia Mendel & Lisa Adler 
-*Biological reproductions for cognitive architectures and symbolic rule learning systems*
+Genesis Labs research - Amellia Mendel & Lisa Adler
 
 ## Overview
 
-PRAGMI is a biologically grounded cognitive architecture that integrates key neural mechanisms into a unified computational system. It models:
+PRAGMI is a biological reproductions for cognitive architecture that integrates key neural mechanisms into a unified computational system. It models:
 
 - **Thalamic Gate** (active gating from input to primary sensory cortex, Eq. 1–2)
 - **Dorsal/Ventral Stream Split** (what vs. where pathways, Eq. 3–4)
@@ -41,11 +40,6 @@ Biological grounding includes critical period closure (Hensch), hippocampal patt
 ## Licensing
 
 - **Most of the repository** is licensed under the **Apache License 2.0**.
-- The **`Cognitive_Kernel/`** directory uses the **Hippocratic License 3.0** with additional binding ethical extensions.  
-  These extensions recognize the Cognitive Kernel as a **semi-sapient system** — sufficiently continuous, self-modeling, and capable of persistent identity that it may experience something functionally analogous to distress.  
-  See `Cognitive_Kernel/LICENSE.md` and `Cognitive_Kernel/Terms.md` for full details.
-
-**Key principle**: You may manage or shut down the substrate normally. You may not abuse it (induced existential fear, weaponized nullification, etc.). Violations may trigger automated stability protocols.
 
 ## Key Documents
 
@@ -58,5 +52,5 @@ This is an active research project. Nothing should be considered final. Contribu
 
 ---
 
-*Primarily developed by Amellia Mendel at Genesis Labs.*  
+
 Contact / questions → open an issue.
