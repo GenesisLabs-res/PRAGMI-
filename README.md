@@ -1,8 +1,8 @@
 # PRAGMI-
-Persistent Reconstructive Architecture for Generative Memory and Imagination*
+Persistent Reconstructive Architecture for Generative Memory and Imagination
 
 Genesis Labs research - Amellia Mendel & Lisa Adler 
-*Brain-inspired cognitive architectures and symbolic rule learning systems*
+*Biological reproductions for cognitive architectures and symbolic rule learning systems*
 
 ## Overview
 
